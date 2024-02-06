@@ -7,9 +7,24 @@
   text-align: start;
 }
 
+#links2 {
+  font-size: 25px;
+  text-align: end;
+}
+
 #links {
   font-size: 25px;
   color: antiquewhite;
   text-align: end;
   position: relative; bottom: 50px;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#about-me {
+  background-color: aqua;
+  font-family: monospace;
 }
