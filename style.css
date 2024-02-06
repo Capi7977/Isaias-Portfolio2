@@ -13,3 +13,14 @@
   text-align: end;
   position: relative; bottom: 50px;
 }
+
+#portfolio {
+  background-color: aqua;
+  font-family: monospace;
+  text-align: center;
+ }
+
+ #links3 {
+  font-size: 25px;
+ }
+ 
