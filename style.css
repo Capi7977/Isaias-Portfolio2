@@ -12,6 +12,10 @@
   text-align: end;
 }
 
+#links3 {
+  font-size: 25px;
+}
+
 #links {
   font-size: 25px;
   color: antiquewhite;
@@ -27,4 +31,10 @@ img {
 #about-me {
   background-color: aqua;
   font-family: monospace;
+}
+
+#portfolio {
+  background-color: aqua;
+  font-family: monospace;
+  text-align: center;
 }
