@@ -13,3 +13,13 @@
   text-align: end;
   position: relative; bottom: 50px;
 }
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+#about-me {
+  background-color: aqua;
+  font-family: monospace;
+}
