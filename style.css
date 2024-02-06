@@ -1,4 +1,15 @@
-#Bar {
-  background-color: lightskyblue;
-  font-size: 30px;
+#title {
+  font-size: 25px;
+  background-color: skyblue;
+  height: 50px;
+  width: 1713px;
+  border-radius: 1%; color: black;
+  text-align: start;
+}
+
+#links {
+  font-size: 25px;
+  color: antiquewhite;
+  text-align: end;
+  position: relative; bottom: 50px;
 }
